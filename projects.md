@@ -31,5 +31,5 @@ Link: [covid-19 project](https://vilktor370.github.io/haochen.github.io/projects
 
 2D and 3D sensor fusion using Deep Learning Models
 ----
-Link: [sensor fusion](https://vilktor370.github.io/haochen.github.io/projects/covid19.html)
+Link: [sensor fusion](https://vilktor370.github.io/haochen.github.io/projects/sensor_fusion.html)
 ## Course Projects
