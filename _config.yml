@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+
+url: "https://vilktor370.github.io/haochen.github.io/"
+
+collections:
+    projects:
+        output: true
+defaults:
+    - scope:
+        path: ""
+      values:
+        layout: "default"
+    - scope:
+        path: "projects/"
+      values:
+        layout: "default"
