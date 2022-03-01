@@ -1,11 +1,35 @@
 # Projects
+Below are a list of projects Haochen has done.
 
-[Sensor Calibration in ROS](https://vilktor370.github.io/haochen.github.io/projects/sensor_calibration.html)
+## 1. Computer Vision
+---
+Camera Calibration in ROS
+----
+Link: [Camera Calibration](https://vilktor370.github.io/haochen.github.io/projects/sensor_calibration.html)
 
-[Implement CenterPoint 3D Object Detection Model](https://vilktor370.github.io/haochen.github.io/projects/centerpoint.html)
+
+Rosify CenterPoint 3D Object Detection Model
+----
+Link: [CenterPoint](https://vilktor370.github.io/haochen.github.io/projects/centerpoint.html)
 
 
+Common filters in Computer Vision
+----
+Link: [Filters](https://vilktor370.github.io/haochen.github.io/projects/filters.html)
+
+## 2. Data Analysis
+---
 
 
+Analysis on COVID-19 open research data
+----
+Link: [covid-19 project](https://vilktor370.github.io/haochen.github.io/projects/covid19.html)
 
+
+## 3. Autonomous Vehicle
+---
+
+2D and 3D sensor fusion using Deep Learning Models
+----
+Link: [sensor fusion](https://vilktor370.github.io/haochen.github.io/projects/covid19.html)
 ## Course Projects
