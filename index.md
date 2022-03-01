@@ -2,6 +2,6 @@
 
 ### Short introduction
 
-## [About me](https://vilktor370.github.io/haochen.github.io/about.md)
+## [About me](https://vilktor370.github.io/haochen.github.io/about.html)
 
-## [Projects](https://vilktor370.github.io/haochen.github.io/projects.md)
+## [Projects](https://vilktor370.github.io/haochen.github.io/projects.html)
